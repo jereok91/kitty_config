@@ -7,7 +7,7 @@ This document outlines the configuration for my Kitty terminal.
 1. Clone the kitty\_config repository:
 
     ```bash
-    git clone https://github.com/shashinvision/kitty_config.git ~/.config/kitty
+    git clone https://github.com/jereok91/kitty_config.git ~/.config/kitty
     ```
 
 **Font:**
